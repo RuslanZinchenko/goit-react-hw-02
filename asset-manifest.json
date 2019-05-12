@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02/static/css/main.ea7707c1.chunk.css",
+    "main.css": "/goit-react-hw-02/static/css/main.de681630.chunk.css",
     "main.js": "/goit-react-hw-02/static/js/main.2977ed48.chunk.js",
     "main.js.map": "/goit-react-hw-02/static/js/main.2977ed48.chunk.js.map",
     "runtime~main.js": "/goit-react-hw-02/static/js/runtime~main.577bbb3b.js",
@@ -8,8 +8,8 @@
     "static/js/2.49e52416.chunk.js": "/goit-react-hw-02/static/js/2.49e52416.chunk.js",
     "static/js/2.49e52416.chunk.js.map": "/goit-react-hw-02/static/js/2.49e52416.chunk.js.map",
     "index.html": "/goit-react-hw-02/index.html",
-    "precache-manifest.a0c7d3ac9396909aefe352184508d512.js": "/goit-react-hw-02/precache-manifest.a0c7d3ac9396909aefe352184508d512.js",
+    "precache-manifest.ae79555752a3c6aa79d3b45c323270f0.js": "/goit-react-hw-02/precache-manifest.ae79555752a3c6aa79d3b45c323270f0.js",
     "service-worker.js": "/goit-react-hw-02/service-worker.js",
-    "static/css/main.ea7707c1.chunk.css.map": "/goit-react-hw-02/static/css/main.ea7707c1.chunk.css.map"
+    "static/css/main.de681630.chunk.css.map": "/goit-react-hw-02/static/css/main.de681630.chunk.css.map"
   }
 }
