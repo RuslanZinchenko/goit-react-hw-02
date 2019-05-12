@@ -7,11 +7,6 @@ import Operations from '../../utils/Operations';
 import Modal from './Modal';
 import styles from './Dashboard.module.css';
 
-// const operations = {
-//   DEPOSIT: 'Deposit',
-//   WITHDRAW: 'Withdraw',
-// };
-
 export default class Dashboard extends Component {
   state = {
     history: [],
